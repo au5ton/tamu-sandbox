@@ -1,3 +1,45 @@
 [submodule "onContentStop-csce121"]
 	path = onContentStop-csce121
 	url = https://phobos.soot.dev/gitlab/mirror/onContentStop-csce121.git
+[submodule "hncleary-TAMU-CSCE-222"]
+	path = hncleary-TAMU-CSCE-222
+	url = https://phobos.soot.dev/gitlab/mirror/hncleary-TAMU-CSCE-222.git
+[submodule "JosephMart-CSCE-315-P2"]
+	path = JosephMart-CSCE-315-P2
+	url = https://phobos.soot.dev/gitlab/mirror/JosephMart-CSCE-315-P2.git
+[submodule "JosephMart-CSCE-315-Project-1"]
+	path = JosephMart-CSCE-315-Project-1
+	url = https://phobos.soot.dev/gitlab/mirror/JosephMart-CSCE-315-Project-1.git
+[submodule "JosephMart-CSCE222-Homework"]
+	path = JosephMart-CSCE222-Homework
+	url = https://phobos.soot.dev/gitlab/mirror/JosephMart-CSCE222-Homework.git
+[submodule "JosephMart-ECEN248"]
+	path = JosephMart-ECEN248
+	url = https://phobos.soot.dev/gitlab/mirror/JosephMart-ECEN248.git
+[submodule "JosephMart-CSCE222"]
+	path = JosephMart-CSCE222
+	url = https://phobos.soot.dev/gitlab/mirror/JosephMart-CSCE222.git
+[submodule "JosephMart-MSE"]
+	path = JosephMart-MSE
+	url = https://phobos.soot.dev/gitlab/mirror/JosephMart-MSE.git
+[submodule "JosephMart-CSCE-313"]
+	path = JosephMart-CSCE-313
+	url = https://phobos.soot.dev/gitlab/mirror/JosephMart-CSCE-313.git
+[submodule "JosephMart-ECEN-350"]
+	path = JosephMart-ECEN-350
+	url = https://phobos.soot.dev/gitlab/mirror/JosephMart-ECEN-350.git
+[submodule "JosephMart-CSCE-462-lab"]
+	path = JosephMart-CSCE-462-lab
+	url = https://phobos.soot.dev/gitlab/mirror/JosephMart-CSCE-462-lab.git
+[submodule "JosephMart-CSCE121-Homework"]
+	path = JosephMart-CSCE121-Homework
+	url = https://phobos.soot.dev/gitlab/mirror/JosephMart-CSCE121-Homework.git
+[submodule "JosephMart-CSCE465"]
+	path = JosephMart-CSCE465
+	url = https://phobos.soot.dev/gitlab/mirror/JosephMart-CSCE465.git
+[submodule "JosephMart-CSCE221"]
+	path = JosephMart-CSCE221
+	url = https://phobos.soot.dev/gitlab/mirror/JosephMart-CSCE221.git
+[submodule "JosephMart-CSCE221-PA2"]
+	path = JosephMart-CSCE221-PA2
+	url = https://phobos.soot.dev/gitlab/mirror/JosephMart-CSCE221-PA2.git
